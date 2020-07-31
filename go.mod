@@ -1,4 +1,4 @@
-module github.com/rikugun/EasyGoLib
+module github.com/mentallxm/EasyGoLib
 
 go 1.13
 
